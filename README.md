@@ -30,6 +30,10 @@ BestMe
 \[X] **process.stdin**\
 \[X] **process.on**
 
+## 📑 Descrição
+
+<p>Projeto de perguntas de reflexão.</p>
+
 
 
 ## 📝 Licença
